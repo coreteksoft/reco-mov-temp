@@ -24,8 +24,8 @@
 #define SENSOR_READ_INTERVAL 2000UL
 
 // Configura aqui tu red para habilitar dashboard web
-#define WIFI_SSID     "SANTI"
-#define WIFI_PASSWORD "Dianita1680"
+#define WIFI_SSID     "nombrered"
+#define WIFI_PASSWORD "passwordred"
 
 // GPS virtual para demo sin hardware fisico
 #define GPS_SIM_ENABLED true
